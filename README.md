@@ -2,7 +2,6 @@
 
 A dynamic circular queue implemented in the kernel space of linux, using IOCTL calls.
 
-
 ## Dependencies
 
 * Any linux disto
@@ -78,3 +77,10 @@ A dynamic circular queue implemented in the kernel space of linux, using IOCTL c
 chmod +x run.sh
 sudo ./run.sh
 ```
+
+
+## References:
+
+* [This legacy tutorial](https://github.com/Johannes4Linux/Linux_Driver_Tutorial_legacy)
+* Various stackoverflow pages
+* [TLDP](https://tldp.org/LDP/lkmpg/2.6/html/x569.html)
